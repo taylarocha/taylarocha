@@ -8,7 +8,7 @@ Meu nome é Tayla Rocha de Araújo, estudo no Instituto Federal do Tocantins - I
 <ul>
  <li>
    <img src="https://cdn-icons-png.flaticon.com/256/3621/3621435.png" width="18" alt="Instagram">
-   <a href="hhttps://instagram.com/__taylarocha?igshid=MzRlODBiNWFlZA==" target="_blank" title="My Instagram">Instagram</a>
+   <a href="https://instagram.com/__taylarocha?igshid=MzRlODBiNWFlZA==" target="_blank" title="My Instagram">Instagram</a>
     </li>
     <li>
 </ul>
