@@ -8,5 +8,5 @@ Meu nome é Tayla Rocha de Araújo, estudo no Instituto Federal do Tocantins - I
 
 
 ## 🔗 Links
-[![Instagram](https://t.ctcdn.com.br/eXQweorgzzB_ARsw7I9Bvp4O_Qg=/400x400/smart/filters:format(webp)/i489927.jpeg)](hhttps://instagram.com/__taylarocha?igshid=MzRlODBiNWFlZA==)
+[![Instagram](https://t.ctcdn.com.br/eXQweorgzzB_ARsw7I9Bvp4O_Qg=/200x200/smart/filters:format(webp)/i489927.jpeg)](hhttps://instagram.com/__taylarocha?igshid=MzRlODBiNWFlZA==)
 
