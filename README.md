@@ -1,5 +1,5 @@
 
-# Olá pessoal, sejam bem vindos ao meu GitHub 👋
+# Olá pessoal, sejam bem vindos ao meu GitHub 👋 p
 
 
 Meu nome é Tayla Rocha de Araújo, estudo no Instituto Federal do Tocantins - IFTO e estou cursando o curso de informática. Sou cristã. Está conta foi criada para um projeto da escola.
